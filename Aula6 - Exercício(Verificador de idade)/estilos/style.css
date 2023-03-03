@@ -1,1 +1,32 @@
 @charset "UTF-8";
+
+
+body {
+    background-color: rgb(108, 108, 218);
+}
+
+header {
+    text-align: center;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.336);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+article {
+    background-color: white;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    margin: auto;
+    line-height: 35px;
+    width: 500px;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
+}
+
+footer {
+    text-align: center;
+    color: white;
+    margin: 50px;
+}
